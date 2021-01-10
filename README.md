@@ -1,5 +1,5 @@
 # NORAPI
-Interesting norwegian APIs
+## Interesting norwegian APIs
 
 https://developer.yr.no/doc/ | weather data
 
@@ -12,3 +12,7 @@ https://app.norges-bank.no/query/index.html#/no/ | Norges Banks API for åpne da
 https://api.cristin.no/ | CRISTIN (Current Research Information System in Norway) er et felles system for registrering og rapportering av forskningsaktiviteter for institusjoner i helsesektoren, instituttsektoren og UH-sektoren. 
 
 https://artsdatabanken.no/Pages/195884 | "I en tidlig fase av Artskart bestemte man seg for å samarbeide med Gbif-norge, og så fordeler ved Gbif's utvekslingsformat for Artsfunn - Darwin Core Archive. Artskart høster hver natt data fra naturvitenskapelige institusjoner i norge på dette formatet og lagrer en lokal kopi av disse grunnlagsdataene er en lokal Cache. Innholdet i denne cachen eksponeres via Apiet og gir dermed tilgang til rådata - før de blir prosessesert inn i Artskart løsningen, innsynsklienten, wms tjenester o.l."
+
+## International
+
+https://api.gbif.org/v1/occurrence/ | "Free and open access to biodiversity data; occurences of species"
