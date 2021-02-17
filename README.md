@@ -13,6 +13,8 @@ https://api.cristin.no/ | CRISTIN (Current Research Information System in Norway
 
 https://artsdatabanken.no/Pages/195884 | "I en tidlig fase av Artskart bestemte man seg for å samarbeide med Gbif-norge, og så fordeler ved Gbif's utvekslingsformat for Artsfunn - Darwin Core Archive. Artskart høster hver natt data fra naturvitenskapelige institusjoner i norge på dette formatet og lagrer en lokal kopi av disse grunnlagsdataene er en lokal Cache. Innholdet i denne cachen eksponeres via Apiet og gir dermed tilgang til rådata - før de blir prosessesert inn i Artskart løsningen, innsynsklienten, wms tjenester o.l."
 
+https://nin-kode-api.artsdatabanken.no/swagger/index.html?urls.primaryName=NinKode%20API%20v2.2 | "Naturtyper i Norge. For spesielt interesserte"
+
 ## International
 
 https://api.gbif.org/v1/occurrence/ | "Free and open access to biodiversity data; occurences of species"
